@@ -1,0 +1,25 @@
+body {
+    background-image: url(/img/abstract-flames-exploding-multi-colored-ink-paint-generated-by-ai.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    size: 250px;
+    font-size: large;
+}
+
+p{
+    background-color: transparent;
+    color: rgb(220, 4, 4);
+}
+p#intro{
+    background-color: aqua;
+
+}
+
+.dikkevetterand{
+    border: 10px dashed black;
+}
